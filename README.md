@@ -4,7 +4,7 @@ A unique, modern, and responsive quiz application built with React and Next.js, 
 
 ## Live Demo
 
-[Link to live demo](https://thefznkhan-quiz-app.vercel.app)
+[Link to live demo](https://modern-quiz-app-psi.vercel.app/)
 
 ## Features
 

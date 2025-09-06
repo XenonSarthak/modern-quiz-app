@@ -21,11 +21,11 @@ export const metadata: Metadata = {
         title: "Modern Quiz App by Faizan Khan",
         description:
             "A modern and responsive quiz application to test your knowledge.",
-        url: "https://thefznkhan-quiz-app.vercel.app",
+        url: "https://modern-quiz-app-psi.vercel.app/",
         siteName: "Modern Quiz App",
         images: [
             {
-                url: "https://thefznkhan-quiz-app.vercel.app/og-image.png",
+                url: "https://modern-quiz-app-psi.vercel.app//og-image.png",
                 width: 1200,
                 height: 630,
             },
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         description:
             "A modern and responsive quiz application to test your knowledge.",
         creator: "@thefznkhan",
-        images: ["https://thefznkhan-quiz-app.vercel.app/og-image.png"],
+        images: ["https://modern-quiz-app-psi.vercel.app//og-image.png"],
     },
 };
 
